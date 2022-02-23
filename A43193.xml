@@ -1,0 +1,292 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preached before the Right Honourable the Lord Chief Justice Treby at the Assizes held at Horsham in the County of Sussex, on the 23d day of March, 1696[/]7. By Peter Heald, A.M. and prebendary in the Cathedral Church of Chichester.</title>
+            <author>Heald, Peter, d. 1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 37 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43193</idno>
+            <idno type="STC">Wing H1300A</idno>
+            <idno type="STC">ESTC R216620</idno>
+            <idno type="EEBO-CITATION">99828345</idno>
+            <idno type="PROQUEST">99828345</idno>
+            <idno type="VID">32772</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43193)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32772)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1866:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preached before the Right Honourable the Lord Chief Justice Treby at the Assizes held at Horsham in the County of Sussex, on the 23d day of March, 1696[/]7. By Peter Heald, A.M. and prebendary in the Cathedral Church of Chichester.</title>
+                  <author>Heald, Peter, d. 1728.</author>
+               </titleStmt>
+               <extent>[6], 22 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Elizabeth Janeway bookseller in Chichester; and are to be sold by Eben. Tracy at the Three Bibles on London-bridge,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1697.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With a preliminary half title: "A sermon preached before the Right Honourable the Lord Chief Justice Treby.".</note>
+                  <note>Running title reads: A sermon preached at the assizes held at Horsham in Sussex.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Sermons, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2011-06</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="half_title">
+            <pb facs="tcp:32772:1" rendition="simple:additions"/>
+            <p>A SERMON Preached before the RIGHT HONOURABLE THE Lord Chief Juſtice TREBY.</p>
+            <pb facs="tcp:32772:2"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+            <pb facs="tcp:32772:2" rendition="simple:additions"/>
+         </div>
+         <div type="title_page">
+            <pb facs="tcp:32772:3"/>
+            <pb facs="tcp:32772:3" rendition="simple:additions"/>
+            <p>A SERMON Preached before the RIGHT HONOURABLE THE Lord Chief Juſtice TREBY, AT THE ASSIZES Held at <hi>Horſham</hi> in the County of <hi>S<g ref="char:V">Ʋ</g>SSEX,</hi> on the 23d Day of <hi>March,</hi> 1696/7.</p>
+            <p>By <hi>PETER HEALD,</hi> A. M. And Prebendary in the Cathedral Church of <hi>CHICHESTER.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi>
+            </p>
+            <p>Printed for <hi>Elizabeth Janeway</hi> Bookſeller in <hi>Chicheſter;</hi> and are to be Sold by <hi>Eben. Tracy</hi> at the <hi>Three Bibles</hi> on <hi>London-bridge.</hi> 1697.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:32772:4"/>
+            <pb facs="tcp:32772:4"/>
+            <head>TO THE RIGHT WORSHIPFUL RICHARD FARINGTON, <abbr>Eſq</abbr> 
+               <hi>High-Sheriff,</hi> And One of His Majeſty's Deputy-Lieutenants and Juſtices of the Peace, for the County of <hi>Suſſex.</hi>
+            </head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>THis Sermon Preached before ſo Learned and Excellent a Judge, as all Juſt Men, (who have the Honour to know him) muſt own my Lord Chief Juſtice <hi>TREBY</hi> to be, I now Publiſh, as you very well know, Sir, at the Requeſt of many Worthy Gentlemen, for whom I ſhall always preſerve an unfeigned Eſteem, as for many other Virtues, ſo particularly for their Generous Love to their Coun<g ref="char:EOLhyphen"/>trey in Dangerous, Trying Times. I have no Apo<g ref="char:EOLhyphen"/>logy to make for the Diſcourſe it ſelf, but that I
+<pb facs="tcp:32772:5"/>think it Loyal and Orthodox, and I am ſure is well intended, which I hope will atone for the many Im<g ref="char:EOLhyphen"/>perfections of it. I thought fitteſt upon that Publick Occaſion, to preſs the Duty of Subjection and Obedi<g ref="char:EOLhyphen"/>ence to Our Gracious King <hi>WILLIAM,</hi> which all the Clergy in Subſcribing their Addreſs to His Majeſty Obliged themſelves to do; and in that I only made more Publick, what upon many Particular Op<g ref="char:EOLhyphen"/>portunities, I have according to my Poor Capacity endeavour'd to perſwade People to, ever ſince His Majeſty's Happy Acceſſion to the Throne, which I have found by Experience ſome Perſons have not been well pleas'd at. I know the Enemies to the Government will not like this Diſcourſe, but I ſhall regard their Cenſures as little as they do their Duty, ſo long as I have the Approbation of Wiſer and Bet<g ref="char:EOLhyphen"/>ter Men, who are Friends to the Government, to which I here publickly Profeſs my ſelf a Friend, and at the ſame time, Sir, with all due Reſpect and Gra<g ref="char:EOLhyphen"/>titude for your many Favours,</p>
+            <closer>
+               <signed>
+                  <hi>Your Moſt Humble, Obedient Servant,</hi> Peter Heald.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:32772:5"/>
+            <head>A SERMON Preached before the RIGHT HONOURABLE THE Lord Chief Juſtice TREBY.</head>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Titus III. 1.</hi>
+                  </bibl>
+                  <p>Put them in mind to be Subject to Prin<g ref="char:EOLhyphen"/>cipalities and Powers, to Obey Ma<g ref="char:EOLhyphen"/>giſtrates.</p>
+               </q>
+            </epigraph>
+            <p>THE Apoſtle in this Epiſtle gives Inſtructions to <hi>Titus,</hi> what Doctrines he ſhould principally inſiſt upon in Preaching to the People of <hi>Crete,</hi> amongſt whom, there were ſome Unruly,
+<note place="margin">1.10.</note> Men that were Wilful and Obſtinate in their own way, who would not ſubmit to Peace and Order. Others were
+<pb n="2" facs="tcp:32772:6"/>Vain Talkers and Deceivers, who vented their own Idle Fancies, with ſuch Sly Inſinuations, that they Corrupted others into the Belief of them. By their Falſe but Plau<g ref="char:EOLhyphen"/>ſible Pretences, they Seduced whole Families into their Pernicious Opinions,
+<note place="margin">Ver. 11.</note> when their Real Deſign was their own Advantage. Others were Notorious Liars, ſuch as would affirm a Falſhood with the ſame Confidence as an Honeſt Man would aſſert a Truth, or to give it a more Advantageous Grace, paint it over with a Coun<g ref="char:EOLhyphen"/>terfeit Modeſty, a Studied Gravity, and Affected Seri<g ref="char:EOLhyphen"/>ouſneſs. Others were Contentious and Troubleſom, who regarded more the Malice and Cunning of their Words and Actions, than the Juſtice and Morality of them, were perpetually buſie in ſowing the Seeds of Diſcord, poſſeſſing Men with Unjuſt Prejudices, and hatching ſome Miſchief or other againſt their more In<g ref="char:EOLhyphen"/>nocent and Quieter Neighbours. Some were Factious and Seditious, always complaining againſt the Govern<g ref="char:EOLhyphen"/>ment, and what they did in Obedience to it ſeem'd to be againſt their Wills, with Wrath or Grudging, or ſome evident Mark of Ill-will and Diſcontent. Which Undi<g ref="char:EOLhyphen"/>tiful Carriage made them juſtly looked upon as Enemies to the Government, whereby they brought a Scandal upon the Chriſtian Religion, and ſometimes Perſecution upon the Beſt Chriſtians. <hi>By reaſon of their Pernicious Ways,
+<note place="margin">2 Pet. 2.2.</note> the Way of Truth was evil-ſpoken of.</hi>
+            </p>
+            <p>Now to take off the Diſhonour, which theſe Men's Ill Practices had brought upon Chriſtianity, and to ſave the good Chriſtians from Suffering by their Provoca<g ref="char:EOLhyphen"/>tions and Immoralities, the Apoſtle thought it neceſſary. <hi>their Mouths ſhould be stopt,
+<note place="margin">Tit. 1.11.</note> that they ſhould be rebuked
+<pb n="3" facs="tcp:32772:6"/>ſharply,
+<note place="margin">Ver. 13.</note> and with all Authority,</hi> that they might either be Reformed, or Diſabled from doing any more Miſchief. And there was good Reaſon for it, for they were indeed Hypocrites, who Practic'd upon the Weak and the Cre<g ref="char:EOLhyphen"/>dulous, by pretending they knew more of God and his Religion than other Men, but yet their Actions were contrary to true Piety, for altho' in Words <hi>they profeſt that they knew God,
+<note place="margin">1.16.</note> in Works they deny'd him, being abomi<g ref="char:EOLhyphen"/>nable and diſobedient.</hi>
+            </p>
+            <p>And to let the World ſee, that Chriſtianity was Ca<g ref="char:EOLhyphen"/>lumniated, when repreſented as an Enemy to Civil Go<g ref="char:EOLhyphen"/>vernment; for the Beſt Chriſtians were the Beſt Friends of it, the moſt Peaceable, Quiet and Obedient, and Taught ſo to be by the Principles of their Religion, he enjoins <hi>Titus</hi> the Metropolitan of <hi>Crete,</hi> to <hi>put</hi> the Chri<g ref="char:EOLhyphen"/>ſtians under his Care and Charge, <hi>in mind to be Subject to Principalities and Powers, to Obey Magiſtrates.</hi>
+            </p>
+            <p>'Tis imply'd, they knew this to be their Duty before, but to ground them the more firmly in it, engage them the more ſtrictly to the practice of it, and thereby to baffle the Objections of their Enemies, St. <hi>Paul</hi> thought it neceſſary, that they ſhould be put in mind of this conſi<g ref="char:EOLhyphen"/>derable part of the Chriſtian Religion, that none might plead Ignorance or Forgetfulneſs, or be able to make any Pretence to Excuſe the Non-performance of it.</p>
+            <p>Now, in Compliance with this Apoſtolical Precept, which gives a Commiſſion to all Miniſters, to inculcate the ſame Doctrine for the ſame good Purpoſes, I intreat your Patience and Attention, while I put you in mind of theſe Three Things.</p>
+            <p n="1">
+               <pb n="4" facs="tcp:32772:7"/> I. Of the Neceſſity of Government.</p>
+            <p n="2">II. Of the Neceſſity of Governours.</p>
+            <p n="3">III. Of our Duty of Subjection and Obedience to them.</p>
+            <p>The two firſt being imply'd, and the laſt plainly con<g ref="char:EOLhyphen"/>tain'd in the words of the Text.</p>
+            <p n="1">I. The Neceſſity of Government is Confirm'd by the Practice of all Nations, the Barbarous and the Infidel, as well as the Civiliz'd and the Chriſtian, have all uſed the ſame Means of Common Safety. Several indeed un<g ref="char:EOLhyphen"/>der different Forms of Government, but all have con<g ref="char:EOLhyphen"/>ſented in the Neceſſity of ſome. Herein all Countreys of different Climates, and contrary Tempers, Diſpoſitions and Complexions jointly agree.</p>
+            <p>Whence we may conclude, Government as Natural as Self-preſervation, and the ſame God, that planted the one in the Minds of Men, appointed the other, who ſup<g ref="char:EOLhyphen"/>poſes Humane Laws to make Property, before the Eighth Commandment is capable of being broken.</p>
+            <p>Now Government is made Neceſſary, becauſe of the Errours of Men, which proceed from Ignorance and Vice.</p>
+            <p n="1">1. From Ignorance. Although Men leaſt complain of want of Knowledge, of any one thing, yet 'tis certain, the want of it has made many to be the Authors of great Confuſion and Diſorder in the World. Ignorance is the Blindneſs of the Underſtanding, and none are more in
+<pb n="5" facs="tcp:32772:7"/>danger to miſtake their way, than they who walk in the dark. And then if a Zeal be joined with Ignorance, as commonly it is, then it is a <hi>Zeal without Knowledge indeed, i. e.</hi> an Ignorant Zeal, or a Zealous Ignorance, which has driven Men on to commit the greateſt Sins, under the pretence of doing well. This irritated the <hi>Jews</hi> to Hate and Deſpiſe, to Slander and Blaſpheme, to Accuſe and Crucifie our Bleſſed Saviour; for <hi>thro' Ig<g ref="char:EOLhyphen"/>norance they did it,
+<note place="margin">Acts 3.17.</note> as did alſo their Rulers.</hi> This in<g ref="char:EOLhyphen"/>raged them to Kill his Diſciples,
+<note place="margin">Joh. 16.3.</note> and yet miſled them to think they did God Service in doing ſo. This made St. <hi>Paul,</hi> before his Converſion, to be exceeding<g ref="char:EOLhyphen"/>ly Mad againſt Good Men, to Perſecute them even to the Death, and yet to think he did well in it. But when he better underſtood himſelf, he confeſt he did theſe ill things <hi>ign<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rantly in <g ref="char:V">Ʋ</g>nbelief.</hi>
+               <note place="margin">1 Tim. 1.13.</note> This has kin<g ref="char:EOLhyphen"/>dled the Flames of many Cruel Perſecutions, and caus'd many Uncharitable Diviſions in the Chriſtian Church. This has rais'd many dreadful Convulſions in the State, and by Riots, Tumults and Inſurrections, has Threatned, and ſometimes Effected the Ruin of Flouriſhing Kingdoms.</p>
+            <p>We have heard that Forty Men have been inraged to make War againſt a Mighty Nation, in full Peace, in the midſt of its Principal City: And we have no Security, but an Ignorant, Furious, Enthuſiaſtick Zeal, may animate greater Numbers, to attempt the like, or worſe Miſchiefs.</p>
+            <p>It is reaſonable indeed that Ignorant People ſhould be Modeſt, willing to hearken to good Inſtructions,
+<pb n="6" facs="tcp:32772:8"/>and ready to follow the Directions of their Superiors: But on the contrary, a Zealous Ignorance, which is uſually accompanied with Opinionativeneſs and Bigo<g ref="char:EOLhyphen"/>try, Partiality and Self-conceit, Pride and Prejudice, makes Men Bold above meaſure, and Self-will'd above the Power of Conviction; and 'tis almoſt certain, that thoſe, who are acted by it, are very bad Men, and know it not, and do many ill things, and fancy they do well. Altho' the Rule of their Duty is plain and obvious, yet there is ſuch a falſe Byaſs, ſuch an obſcurity in their Underſtanding, that they ſee it not. And as Error in Judgment produces Miſchief in Pra<g ref="char:EOLhyphen"/>ctice, they think themſelves Obliged to do Evil. Now there is no Cure for ſuch an Ignorance as this, like Laws and Puniſhments, for many who have not Wiſ<g ref="char:EOLhyphen"/>dom enough to know their Duty, have Wit enough to fear the Puniſhment for the Tranſgreſſion of it.</p>
+            <p n="2">2. From Vice. Many, who know their Duty well enough, have not a Will to do it. Murderers, Thieves, Robbers upon the Highway, and other Criminals of the firſt Magnitude, dread Courts of Juſtice, being a<g ref="char:EOLhyphen"/>ble to read their own Doom, when brought before Up<g ref="char:EOLhyphen"/>right Judges and Honeſt Juries.</p>
+            <p>And other Malefactors, over-rul'd perhaps by Self<g ref="char:EOLhyphen"/>love, or Fear, or greater Cunning, who decline theſe Deſperate Courſes, and chuſe to practice their Villa<g ref="char:EOLhyphen"/>nous Projects in as Morally a wicked, but as they think a ſafer way, by Fraud and Falſhood, Injuſtice and Oppreſſion, Forgery and Perjury, they all know
+<pb n="7" facs="tcp:32772:8"/>the Shame and Puniſhment due to their Crimes, as appears by their Denials, and the Shifting, Deceitful Arts they uſe for the Concealment of them. And yet Bad Men will be guilty of theſe Crimes, by the In<g ref="char:EOLhyphen"/>ſtigation of the Devil, and the prevailing Vices of their Corrupt Nature. Their Wills are ſtronger than their Reaſon, and their Irregular Paſſions ſo much more powerful than their Conſciences, that they will do ſuch things, as in their Judgment, in their Sober Intervals, they Blame and Condemn themſelves for. And if ſo great Crimes be committed in a Chriſtian Countrey, under a Regular Government, notwith<g ref="char:EOLhyphen"/>ſtanding ſo many Suffering Examples, and the ſtanding Terrours of the Law, againſt the Deſperately Violent, and Cunningly Diſhoneſt part of Mankind, what could we expect but the <hi>Abomination of Deſolation</hi> in every Corner of the Countrey, were Criminals ſuffer'd to Riot, at the Expence of other Men's Lives and For<g ref="char:EOLhyphen"/>tunes, with Impunity?</p>
+            <p>Altho' we all have this Security, that none can do us Injury, without venturing the Damnation of their own Souls, yet ſo great is the Wickedneſs of ſome Men, as makes Temporal Laws neceſſary, to affect them with the Fear of more preſent, more dreadful Puniſhments, than they think the Eternal Torments of Hell to be.</p>
+            <p n="2">II. As there is a Neceſſity of Government, ſo there is the ſame Neceſſity of Governours, for by <hi>Principa<g ref="char:EOLhyphen"/>lities and Powers,</hi> are ſignify'd the Perſons, who have the Power of Governing, and the Word <hi>Magiſtrates,</hi>
+               <pb n="8" facs="tcp:32772:9"/>which is not expreſt in the Original, is added in our Tranſlation, probably by way of Explanation of the former.</p>
+            <p n="1">1. There is a Neceſſity of Supream Governours, to Exerciſe Acts of Soveraignty, <hi>viz.</hi> to make Laws for the Publick Good and Order of a Nation; to mode<g ref="char:EOLhyphen"/>rate the Rigorous Execution of them, when 'tis likely to prove more Prejudicial than Beneficial to the P<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<g ref="char:EOLhyphen"/>lick; in this ſenſe, that is doubtleſs a good Maxim <hi>Salus populi ſuprema lex eſlo;</hi> and to Repeal them, when upon change of Circumſtances, and unforeſeen Inconveniences, which no Humane Wiſdom can pro<g ref="char:EOLhyphen"/>vide againſt, the Publick Benefit requires it: To have the Power of making War, whether Defenſive or Of<g ref="char:EOLhyphen"/>fenſive, for Reparation of National Wrongs, and to Secure their Dominions from the Dangerous Greatneſs of Falſe and Faithelſs Neighbours: And to make Peace upon the Offer or Acceptance of Juſt and Honour<g ref="char:EOLhyphen"/>able Terms; to Send and Receive Ambaſſadors; for the Securing a Good Underſtanding with Forreign Princes and States, and a Mutual Intercourſe of good Offices with their Subjects; to Appoint the Value, Weight and Stamp of the Coin, to ſupply the Oc<g ref="char:EOLhyphen"/>caſions of Trade and Commerce; to Confer Honours, as Rewards for, and Encouragements of Generous Minds to, Worthy Actions, and Noble Enterprizes; to Receive the Laſt Appeal, that the Courſe of Ju<g ref="char:EOLhyphen"/>ſtice may not run infinitely a Circle, from one Supe<g ref="char:EOLhyphen"/>rior to another without End; and to Appoint Mini<g ref="char:EOLhyphen"/>ſters of State, Great Officers, Judges and Magiſtrates, ſuch as St. <hi>Peter</hi> tells us, are Sent or Commiſſioned by
+<pb n="9" facs="tcp:32772:9"/>the King <hi>for the Puniſhment of Evil-doers, and the Praiſe of them that do well.</hi>
+            </p>
+            <p n="2">2. There is a Neceſſity of Subordinate Governours and Magiſtrates, to Adminiſter Juſtice in their Re<g ref="char:EOLhyphen"/>ſpective Places and Stations, according to <hi>Jethro</hi>'s Ad<g ref="char:EOLhyphen"/>vice to <hi>Moſes,</hi>
+               <note place="margin">Exod. 18.21, 22.</note> for the Eaſe of the Prince, in bearing part of the Burden with him, and for the Benefit of the People, that they may not want Right to be done to them upon their ſeveral Occaſions of it. For it is as impoſſible a Task for Princes to Adminiſter Ju<g ref="char:EOLhyphen"/>ſtice to their People, as to Fight their Battels, with<g ref="char:EOLhyphen"/>out their Hands and Help. And it is greatly to the People's Benefit, and to Supply their Neceſſities, that there are Subordinate Magiſtrates, in ſeveral Parts of the Kingdom, Appointed by the Authority and Fa<g ref="char:EOLhyphen"/>therly Care of the Prince, from whom, as the Head, all the Advantages of Government are convey'd to them, as Members of the Body Politique. And in truth, the People, that they may not be like Sheep without a Shepherd, expos'd to Ravenous Wolves, and other Beaſts of Prey, ſtand more in need of a Prince to Rule and Govern them, than a Prince does of the Honour with the Trouble of it.</p>
+            <p>It ſeems ſome People thought otherwiſe among the Old <hi>Perſians,</hi> and therefore the wiſer ſort, to Con<g ref="char:EOLhyphen"/>vince the reſt of their Miſtake, for the ſpace of Five Days after the Death of one of their Kings, permit<g ref="char:EOLhyphen"/>ted the People to live Lawleſs, that after the Experi<g ref="char:EOLhyphen"/>ence of the Slaughters, Rapines and Outrages, com<g ref="char:EOLhyphen"/>mitted in that ſhort Interval, they might learn to
+<pb n="10" facs="tcp:32772:10"/>hold their Kings in more high Eſteem, and be made ſenſible of the neceſſity by the want of them.</p>
+            <p>But how much better is it for Men, to learn Wiſ<g ref="char:EOLhyphen"/>dom by others Experience, than feel the Miſeries of a Trial by their own?</p>
+            <p n="3">III. I proceed now in the Third place, to put you in mind of the Duty of Subjection and Obedience to Governours, which is to be expreſt in ſeveral In<g ref="char:EOLhyphen"/>ſtances,
+<note place="margin">1 Pet. 2.17.</note> as for Example; by Honouring their Perſons, not only by paying outward Reſpects when we are in their Preſence,
+<note place="margin">Rom. 13.7, 8.</note> but with an inward Love and Re<g ref="char:EOLhyphen"/>verence; by Speaking well of them, with Veneration and Eſteem, that we be not of the number of thoſe Sons of <hi>Belial,
+<note place="margin">Jude 6, 7.</note> who deſpiſe Dominions, and ſpeak evil of Dignities;</hi> by Obſerving their Laws, and doing their Juſt Commands with Chearfulneſs, that we be not like them, whom the Apoſtle calls, <hi>Preſumptuous and Self-will'd,</hi> who either refus'd to Obey the Laws of their Governours, or elſe did it grudgingly, with great unwillingneſs; by an humble Submiſſion to their Reproofs, Corrections and Puniſhments, with Meek<g ref="char:EOLhyphen"/>neſs and Patience; by Paying Tribute and Legal Taxes, Ordinary and Extraordinary, for ſo we are Taught to <hi>render to all their Dues,
+<note place="margin">Rom. 13.7</note> Tribute to whom Tribute is due;</hi> by Praying for them in Truth and Sincerity, Abhorring to Prophane the Worſhip of God with ſuch a Vile Hypocriſie, as to Pray for them with our Lips, when our Hearts are far from them; and laſtly, by not reſiſting their Authority, becauſe
+<pb n="11" facs="tcp:32772:10"/>
+               <hi>they that reſiſt,
+<note place="margin">Rom. 13, 2</note> reſiſt the Ordinance of God, and ſhall re<g ref="char:EOLhyphen"/>ceive to themſelves Damnation.</hi>
+            </p>
+            <p>And all Chriſtians are obliged to obſerve theſe In<g ref="char:EOLhyphen"/>ſtances of their Duty, in their reſpective Stations, ac<g ref="char:EOLhyphen"/>cording to their Abilities and Opportunities, of what Condition or Order ſoever they be, whether High or Low, whether Secular or Spiritual Perſons, both Hear<g ref="char:EOLhyphen"/>ers and Teachers, for they, who are to put others in mind of their Duty of Obedience, they eſpecially ought to practice it themſelves.</p>
+            <p>And our Duty in all theſe Particulars, I hope will be the better obſerv'd, if we conſider,
+<list>
+                  <item>1. Our Obligations to the Government.</item>
+                  <item>2. Our Advantages by it.</item>
+                  <item>3. The Gratitude that is due to it.</item>
+               </list>
+            </p>
+            <p n="1">1. Let us remember our Obligations to the Govern<g ref="char:EOLhyphen"/>ment, <hi>i. e.</hi> to be Subject and Obedient to our Gover<g ref="char:EOLhyphen"/>nours. And St. <hi>Paul</hi> urges the Duty of Subjection and Obedience by a Reaſon, which will effectually operate upon the Mind of every good Man, becauſe <hi>the Powers that are,
+<note place="margin">Rom. 13.1</note> are ordained of God:</hi> As his Vice<g ref="char:EOLhyphen"/>gerents, as his Miniſters, they are Inveſted with his Authority and Rule by his Commiſſion, are Set over us by his Appointment, and Advanced by his Provi<g ref="char:EOLhyphen"/>dence, which Over-rules all Second Cauſes (when ſome<g ref="char:EOLhyphen"/>times very unlikely for ſuch a purpoſe) into a ſub<g ref="char:EOLhyphen"/>ſerviency to promote to Empire ſuch Perſons, whom he firſt Approves.</p>
+            <pb n="12" facs="tcp:32772:11"/>
+            <p> So that by this Doctrine, it is as much our Duty to Obey our Governours, as to Obey <hi>the Ordinance of God.</hi> And therefore the Apoſtie goes on to teach his Chriſtian <hi>Romans,
+<note place="margin">Ver. 5.</note> That they muſt needs be ſubject, not only for Wrath, but alſo for Conſcience ſake.</hi>
+            </p>
+            <p>St. <hi>Peter</hi> alſo upon the ſame Principles, teaches the ſame Doctrine of Obedience to the Supream Gover<g ref="char:EOLhyphen"/>nour in the firſt place, and in the ſecond to all that Act by his Authority;
+<note place="margin">1 Pet. 2.13.</note> 
+               <hi>Submit your ſelves to every Or<g ref="char:EOLhyphen"/>dinance of Man for the Lord's ſake, whether it be to the King as Supream, or unto Governours as unto them, that are ſent by him.</hi> And in the Text we are taught to Obey Principalities, and Powers, and Magiſtrates, not only the Supream, but the Subordinate, that none may think themſelves Innocent, by pretending to Obey the one, while they diſobey the other, for our Obedi<g ref="char:EOLhyphen"/>ence is requir'd to both,
+<note place="margin">Ver. 15.</note> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>for the Lord's ſake;</hi> and becauſe <hi>it is the Will of God,</hi> and no good Man will oppoſe the Will of God to follow his own. He calls Obedience Emphatically well-doing in Oppo<g ref="char:EOLhyphen"/>ſition to Diſobedience, which is evil-doing. Thus theſe Two Great Apoſtles preſs the Duty of Obedi<g ref="char:EOLhyphen"/>ence upon the Conſciences of Chriſtians by the ſtrong<g ref="char:EOLhyphen"/>eſt Arguments, with the greateſt Earneſtneſs; and theſe Reaſons will take hold of good Conſciences and ingenuous Minds, and God increaſe the number of them.</p>
+            <p>As for thoſe Men, who impiouſly deſpiſe theſe Ar<g ref="char:EOLhyphen"/>guments, there are others, which likely may work
+<pb n="13" facs="tcp:32772:11"/>upon their Self-love, ſo far as to reſtrain their Practice, tho' they do not Reform their Minds, and they are, fears of Puniſhments. With them that want Religion and Goodneſs to ingage them to their Duty, the fear of Juſtice may prevail, to keep them within the Bounds of it. They that have not the Grace to Obey for Conſcience ſake, may in Prudence have ſo much Inno<g ref="char:EOLhyphen"/>cence at leaſt in outward Appearance, as not to pro<g ref="char:EOLhyphen"/>voke the Wrath of their Governours. <hi>Rulers are not a Terrour to good Works,
+<note place="margin">Rom. 13.3, 4.</note> but to the evil. Will you not then be afraid of the Power? If ye do that which is evil, be afraid, for he beareth not the Sword in vain. He is the Minister of God, a Revenger to execute Wrath upon them that do evil.
+<note place="margin">1 <hi>Pet.</hi> 3.13.</note> Who is he that will harm you, if ye be followers of that which is good?</hi> Againſt Modeſty, Meekneſs, Temperance, Peaceableneſs, <hi>there is no Law.</hi> No Government ever made Laws againſt ſuch Virtues as are neceſſary to the ſupport of it,
+<note place="margin">1 Tim. 1.9.</note> 
+               <hi>The Law is not made for a Righteous Man, but for the <g ref="char:V">Ʋ</g>ngodly, and for Sinners, for Thieves and Murderers, for the Lawleſs and Diſobedient.</hi> Againſt ſuch Evil doers, every Wiſe Go<g ref="char:EOLhyphen"/>vernment provides Penalties proportionable to their Crimes; whether by Pecuniary Mulcts, or Corporal Puniſhments;
+<note place="margin">Ezra 7.26.</note> or <hi>by Confiſcation of Goods, Impriſonment, Baniſhment, or Death.</hi> But all Temporal Puniſhments in this World, are but little in Compariſon of <hi>Eter<g ref="char:EOLhyphen"/>nal Damnation,</hi> which St. <hi>Paul</hi> tells us, the Diſobedi<g ref="char:EOLhyphen"/>ent <hi>Reſiſters of Authority</hi> ſhall receive in the next, which is certainly the Merit, whatever the Event may be of ſo great a Wickedneſs.</p>
+            <pb n="14" facs="tcp:32772:12"/>
+            <p> Beſides the Doctrine of the Scriptures, which will effectually ingage the Obedience of good Chriſtians, we are under the Obligation of an Oath of Allegi<g ref="char:EOLhyphen"/>ance and Fidelity, the Greateſt Security, that can be given againſt Perfidiouſneſs, and the beſt Aſſurance of our ſincere Intention to perform that Duty, which indeed the Laws of Nature, and the Rules of Civil Society require of us; and they who have taken the Oath to His Preſent Majeſty, and yet are Enemies to the Government, I ſuppoſe, expect not to be reputed Men of Integrity, becauſe they themſelves thereby de<g ref="char:EOLhyphen"/>clare how much indeed they deſire, yet how little they deſerve to be Truſted.</p>
+            <p>But if we regard the Honour of our Holy Religi<g ref="char:EOLhyphen"/>on, which by the Providence of God is moſt likely to proſper, by the ſincere Obedience of the Profeſſors of it, and to ſuffer Reproach with many Inconveniences by the Seditious Practices of the Diſobedient, as Chri<g ref="char:EOLhyphen"/>ſtianity at firſt did, by the Factious Behaviour of ſome pretended Chriſtians, who made their Religion a Cloak for their Maliciouſneſs.</p>
+            <p>If we have any Love to our Native Countrey, and they are Unnaturally Barbarous, who have not, and may learn to Correct their Impiety of the Anci<g ref="char:EOLhyphen"/>ent Pagan <hi>Romans,</hi> who would have ſtigmatiz'd ſuch as Diſeaſes of the Community, and proſcribed them as unworthy to Preathe in the common Air of their Country, who had Rejoiced at any Miſchief or Miſ<g ref="char:EOLhyphen"/>fortune that had befallen it.</p>
+            <pb n="15" facs="tcp:32772:12"/>
+            <p> If we have any Value for our Laws and Liber<g ref="char:EOLhyphen"/>ties, which were ſo Dear to our Wiſe Anceſtors, that ſooner than part with them, they would have parted with their Lives. And may they never want Due Honours to be paid to their Memories, for their Publick-ſpirited, Generous Care of their Poſterity, nor we the Virtue to deſerve as well of ours.</p>
+            <p>If we have any Senſe of the Reſtleſs Deſigns of our Common Enemies, who by open Force, and ſe<g ref="char:EOLhyphen"/>cret Fraud, by making, fomenting, inflaming Diviſions among us, ſetting on one part of the Nation to pro<g ref="char:EOLhyphen"/>voke, diſable, deſtroy another by turns, thereby to wear off the Scandal and Odium of their Cruelties, by our upbraiding one another with our own, by all poſſible, inſnaring, intriguing Policies, have endeavour'd to Rob us of theſe Bleſſings; and if we are willing ſtill to be deceiv'd, would make us do their Work for them, and Barbarouſly become Inſtruments of our own Ruin. But ſhould we ſo far oblige our Enemies (who have been too much, and for many Years obli<g ref="char:EOLhyphen"/>ged already) we ſhould be thought deſervedly to ſuffer all Scorn and Miſery, with the Juſt, tho' ſe<g ref="char:EOLhyphen"/>vere Cenſures of Poſterity, without Pity from any Mortal.</p>
+            <p>If we would avoid the Reproach of being an in<g ref="char:EOLhyphen"/>conſtant, fickle, ungrateful People, who in time of Danger wiſh for a Deliverance, and when we have it, know not how to Value it, but are ready to wiſh for our Danger again, and too many to give their Help,
+<pb n="16" facs="tcp:32772:13"/>to bring it back again upon us, tho' with greater Violence, if not certain Deſtruction to our Religion, Laws, Liberties, and all that is Dear to us.</p>
+            <p>If there be any Love, if there be any Fear, if we have any Regard to things of the greateſt Concern<g ref="char:EOLhyphen"/>ment to us, let us not Undervalue our Bleſſings, which will be beſt preſerv'd, nor Court our Slavery, which is moſt likely to be prevented, by Unity among our ſelves, in a hearty Obedience to our Governours. And I hope theſe Conſiderations will be looked upon by all Sober Men, who are Proteſtants, as ſo many Obliga<g ref="char:EOLhyphen"/>tions and Motives to it.</p>
+            <p n="2">II. Let us call to mind the Advantages we receive by the Government, which are more, and in many re<g ref="char:EOLhyphen"/>ſpects greater than other Nations Enjoy.</p>
+            <p>We are Guarded in our Civil Rights by many fa<g ref="char:EOLhyphen"/>vourable Laws, which give us Relief againſt all Inju<g ref="char:EOLhyphen"/>ries, either of Force or Falſhood.</p>
+            <p>We are Protected in our Liberties, which is a great Encouragement to Labour and Improvements, when we conſider that what is deſcended to us from our Anceſtors, or gotten by our Honeſt Induſtry, we are ſecur'd in the Legal Poſſeſſion and Diſpoſal of, a<g ref="char:EOLhyphen"/>gainſt all Arbitrary Attempts, or Injurious Pretenſions. And above all, we have an Excellent Religion, the true Worſhip of God Eſtabliſht among us, and no<g ref="char:EOLhyphen"/>thing is wanting that is helpful to forward the Sal<g ref="char:EOLhyphen"/>vation of our Souls, unleſs it be (that which is in our
+<pb n="17" facs="tcp:32772:13"/>power to amend) the Conformity of our Practice to the Rules of our Profeſſion.</p>
+            <p>And theſe Temporal and Spiritual Bleſſings, we have Enjoy'd for ſeveral Years, ſince our laſt great Danger of loſing them, and have reaſon to hope for the Continuance of them, ſince our Gracious King has no Secret Ingagements, or Siniſter Deſigns, no Ends to ſerve, but thoſe Glorious Ones, of Promoting the Pub<g ref="char:EOLhyphen"/>lick Good of theſe Kingdoms, Preſerving the Proteſtant Religion at Home and Abroad, and Recovering the Juſt Liberties of the Suffering part of <hi>Europe.</hi> So that methinks it will be our own Fault, Negligence, Care<g ref="char:EOLhyphen"/>leſneſs, or ſomething worſe, if we receive not many, laſting, future Bleſſings, as well as the preſent, by his Auſpicious Reign.</p>
+            <p>But ſome are apt to ſet the Decay and Loſs of Trade, and the great Taxes, which lye heavy upon them, a<g ref="char:EOLhyphen"/>gainſt this Account.</p>
+            <p>In time of War there are Common Accidents, which will unavoidably happen to ſome People's Loſs, in one Nation as well as another, and therefore are not to be reckoned only on one ſide.</p>
+            <p>'Tis not reaſonable to expect the ſame Conveni<g ref="char:EOLhyphen"/>ences in all Reſpects, as in Times of Peace, any more than to deſire that bitter, tho' wholeſom Medicines, ſhould be as Pleaſant as a Recover'd State of Health.</p>
+            <pb n="18" facs="tcp:32772:14"/>
+            <p> And if Taxes are great, the Neceſſity is great alſo. They are indeed ſenſibly the heavier by the Helliſh Arts of Wicked Men, who for ſeveral Years have been Maliciouſly breaking our Strength at Home, in Clip<g ref="char:EOLhyphen"/>ping and Debaſing the Coin, and thereby have done more Injury to our Nation, than the Succeſſive Thieves and Robbers of many Ages. But this we hope will be Repair'd by the Wiſdom of our Governours, and that in the Iſſue we ſhall be all Recompenced for what we ſuffer by it, by more Proſperous Events.</p>
+            <p>We are Ingaged in War againſt an Enemy, whoſe Greatneſs we have long dreaded, like a direful Co<g ref="char:EOLhyphen"/>met of Malignant Influence, portending ſome great Calamity, and if it had been begun ſooner, it would doubtleſs have been ſhorter, and will be ſo ſtill, if we are as Unanimous and Hearty in the Cauſe, as our King is Brave and Valiant in the Defence of it. The Succeſs that cannot be obtain'd againſt a Powerful Enemy on a ſudden, may be procur'd in time, by Courage, and Patience, and Perſeverance, which Vir<g ref="char:EOLhyphen"/>tues, we had much better uſe with a doubled Reſo<g ref="char:EOLhyphen"/>lution, than Relapſe into our former Diſtractions, or ſubmit our ſelves to Slavery, and be expos'd to the Mercy of <hi>French</hi> Dragoons, which can have no more Friends in <hi>England,</hi> than there are Enemies to our Re<g ref="char:EOLhyphen"/>ligion and Laws. It is the nature of weak and im<g ref="char:EOLhyphen"/>potent Minds, when under any uneaſineſs, preſently upon any Terms to deſire to get rid of it, without conſidering the Dangerous Conſequences of their un<g ref="char:EOLhyphen"/>adviſed Impatience, whether they will not put them
+<pb n="19" facs="tcp:32772:14"/>into Ten times a worſe Condition, and irrecoverably ſo, than they are at preſent in.</p>
+            <p>We find in Scripture the People were called upon in time of Difficulty and Danger,
+<note place="margin">2 Sam. 10.12.</note> to be of <hi>good Cou<g ref="char:EOLhyphen"/>rage, and to play the Men,</hi> as the Apoſtle exhorts the <hi>Corinthians,
+<note place="margin">1 Cor. 16.13.</note> 
+                  <gap reason="foreign">
+                     <desc>〈 in non-Latin alphabet 〉</desc>
+                  </gap>, quit your ſelves like Men, and be ſtrong.</hi> And the Heathens in their Addreſſes to their People to behave themſelves Valiantly, uſed to bid them remember they were Men; implying, that if they did but conſider they were Men, they would then do worthily and honourably, as became the Dignity of their Name, and the Excellency of their Nature.</p>
+            <p>And the Conſideration that we are <hi>Engliſh</hi> Men, now in a time of Danger and War, with a Strong and Subtile Enemy, ſhould raiſe in us a Courage ſui<g ref="char:EOLhyphen"/>table to that Name, which has been ſo Famous in former Ages, and excite us to give it a new luſtre, by Reviving the Virtues of our Forefathers, in giving all poſſible Teſtimonies of Fidelity and Good-will to our Countrey. Then ſhould we bear our part of the Ne<g ref="char:EOLhyphen"/>ceſſary Charge for our Defence, not only with Con<g ref="char:EOLhyphen"/>tent, but Chearfulneſs, eſpecially conſidering that upon a Juſt Computation, we are the Gainers by it; for beſides the Deliverance from paſt Calamities, which ought not to be forgotten, and our hopes of future Safety and Proſperity, which are not to be deſpair'd of, we have Peace and Quietneſs at Home, the free Exerciſe of our Religion, and other Advantages of Go<g ref="char:EOLhyphen"/>vernment; without the Alarms and Fears, without
+<pb n="20" facs="tcp:32772:15"/>the Devaſtation and Spoil of approaching Armies; ſo that we have more to be Thankful for than to Complain of. God be Praiſed, the Bleſſings we enjoy, do much over<g ref="char:EOLhyphen"/>ballance the Inconveniences we ſuffer, which are but as gentle Rods, in Compariſon of the Scorpions of our Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>And yet can we be willing by our Murmuring, Diſ<g ref="char:EOLhyphen"/>contents and Diviſions, to ſtrengthen the Hearts and Hands of our Enemies, and weaken our own? To give them Encouragement to continue the War with hopes of Succeſs, and thereby Contribute to the prolonging the Publick National Charge upon us, which we ſo earneſtly wiſh to be eas'd of, by a Happy Peace?</p>
+            <p n="3">III. For all theſe Bleſſings, which we Enjoy, next to the Goodneſs of God, we Owe Gratitude to our Gover<g ref="char:EOLhyphen"/>nours, who are the Happy Inſtruments of Preſerving them to us. They <hi>Attend Continually</hi> with great Labour and Difficulty for our Benefit, laying out their Time, Care and Pains, which we have the Fruits of, without our Trouble. Ought we not then to be Thankful to our Benefactors? Does it not become us to make them as ea<g ref="char:EOLhyphen"/>ſie as we can, that they may not be weary in doing good to us?</p>
+            <p>Sharp and ſevere Sufferings would make the moſt ſtu<g ref="char:EOLhyphen"/>pid, the moſt inſenſible People grateful to their Deliver<g ref="char:EOLhyphen"/>ers: But 'tis our Happineſs to have Reaſons of being grateful upon eaſier Terms, to them, who prevent as well as remove our Miſery.</p>
+            <pb n="21" facs="tcp:32772:15"/>
+            <p> Upon the whole Matter, it is no leſs our Intereſt than our Duty, to expreſs our Gratitude by our Faithful Obe<g ref="char:EOLhyphen"/>dience to the King, and to Subordinate Governours and Magiſtrates, who help to make the Burden more eaſie to him. And what Prince in the World better deſerves the Burden of Government to be made eaſie to him? For his Benignity and Clemency to his People, for his Wiſdom, and Valour, and Courage, and Mighty Intereſt in the World, all which he employs for our Safety: For the Unwearied Labours of his Life, the Hazardous Voyages, and Dangerous Expeditions he Undertakes for our Pre<g ref="char:EOLhyphen"/>ſervation.</p>
+            <p>And what Government better Deſerves to be Suppor<g ref="char:EOLhyphen"/>ted both in Church and State? Our Church being de<g ref="char:EOLhyphen"/>ſervedly Owned to be the Glory of the Reformation, Teaching the Beſt Religion, Confirm'd by the Laws of God, Eſtabliſh'd by thoſe of the Land. The Civil Go<g ref="char:EOLhyphen"/>vernment ſo Famous all the World over, for Securing the Rights and Liberties of the Subject, as well as the Power of the Prince, as to be the Object of Envy to our Enemies. And certainly no People has more Obligations both of Duty and Intereſt, to Obey their Governours, and Sup<g ref="char:EOLhyphen"/>port their Government.</p>
+            <p>And now to conclude; let us not forget to give Thanks to God for all his Mercies to our Church and Nation, particularly for his having had Pity on us, when we were in great Trouble and Diſtreſs, by a Gracious Providence, in giving His Majeſty ſo Happy a Succeſs for our Seaſon<g ref="char:EOLhyphen"/>able Relief and Deliverance; for Preſerving him from
+<pb n="22" facs="tcp:32772:16"/>the many Dangers, to which he has ſince ſo often, and too much Expos'd his Royal Perſon, and for Continuing to us, by him, the great Bleſſings of Government, the Safety of our Religion and Laws.</p>
+            <p>And laſtly, let us Pray for the Preſervation, Health, and Long Life of our Gracious King, <hi>that no Weapon formed againſt him may ever proſper;</hi> that God in Mercy to us would <hi>abate the Pride, aſſwage the Malice, and confound the Devices</hi> of all his Enemies, whilſt on his Head the Crown doth flouriſh, and in order to it, that he would Bleſs his Councils, and Proſper his Affairs: That all, who are in Authority under him, may have Grace to <hi>Execute Juſtice, and Maintain Truth,</hi> and that we all may be Conſcienciouſly Subject and Obedient to them, as be<g ref="char:EOLhyphen"/>comes good Chriſtians, that thereby we may Enjoy the Bleſſing of leading <hi>quiet and peaceable Lives, in all Godli<g ref="char:EOLhyphen"/>neſs and Honeſty.</hi> Which God of his Infinite Mercy grant, to his Glory and our Comfort, for Jeſus Chriſt his Sake, to whom with the Holy Ghoſt, be aſcribed all Glory, Honour and Power for Evermore. <hi>Amen.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
